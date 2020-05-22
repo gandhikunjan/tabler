@@ -2,6 +2,8 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.0"
 
+gem 'protractor-rails'
+
 group :jekyll_plugins do
 	gem 'jekyll-toc'
 	gem "jekyll-random"
